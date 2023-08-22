@@ -103,7 +103,7 @@ header{
     right: 0;
     top: 30%;
     position: relative;
-    height: 80vh;
+    height: 50vh;
     background-image: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.5)),url(images/chastity-cortijo-R-w5Q-4Mqm0-unsplash.jpg);
     background-size: cover;
     background-position: center;
@@ -307,7 +307,7 @@ header{
 }
 .customer-box{
     padding: 24px;
-    height: 50vh;
+    height: 20vh;
     margin: 10px;
     align-items: center;
     justify-content: center;
